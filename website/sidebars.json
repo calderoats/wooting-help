@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Docusaurus": ["doc1", "doc2", "doc3"],
+    "Wootility": ["wootility-intro", "wootility-doesnt-detect"],
+    "Wooting Keyboard": ["wooting-keyboard-guide"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
