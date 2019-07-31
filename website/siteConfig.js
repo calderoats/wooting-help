@@ -11,15 +11,12 @@
 const siteConfig = {
   title: "Wooting Knowledge Base", // Title for your website.
   tagline: "FAQ and support documentation for Wooting products",
-  url: "https://your-docusaurus-test-site.com", // Your website URL
-  baseUrl: "/", // Base URL for your project */
-  // For github.io type URLs, you would set the url and baseUrl like:
-  //   url: 'https://facebook.github.io',
-  //   baseUrl: '/test-site/',
+  url: "https://wootingkb.github.io", // Your website URL
+  baseUrl: "/wooting-help/", // Base URL for your project */
 
   // Used for publishing and more
-  projectName: "woot-help",
-  organizationName: "wootingkb",
+  projectName: "wooting-help",
+  organizationName: "WootingKb",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
